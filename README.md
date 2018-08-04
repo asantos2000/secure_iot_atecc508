@@ -1,7 +1,4 @@
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
 # Secure IoT devices with ATECC508A
-
 
 This is a step-by-step instruction to implement securely store and communication with aws-iot (mqtt) for ESP8266 and Microchip's ATECC508A chip. 
 
@@ -20,16 +17,16 @@ Our goal it's make it simple enough to make part of every project you'll develop
 
 Activity | Status | Dead line
 ---| --- | ---
-1. Prototyping | <i class='material-icons'>done</i> | Dec-2017
-2. PCB design | <i class='material-icons'>build</i> | Set-2018
-3. Software development | <i class='material-icons'>calendar_today</i> | TBD
-4. Manufacturing | <i class='material-icons'>calendar_today</i> | TBD
-5. Unit tests (Eletrical and software) | <i class='material-icons'>calendar_today</i> | TBD
-6. Performance tests | <i class='material-icons'>calendar_today</i> | TBD
-7. Field tests | <i class='material-icons'>calendar_today</i> | TBD
-8. Initial release | <i class='material-icons'>calendar_today</i> | TBD
+1. Prototyping | ✔️ | Dec-2017
+2. PCB design | 🔧 | Set-2018
+3. Software development | 🗓 | TBD
+4. Manufacturing | 🗓 | TBD
+5. Unit tests (Eletrical and software) | 🗓 | TBD
+6. Performance tests | 🗓 | TBD
+7. Field tests | 🗓 | TBD
+8. Initial release | 🗓 | TBD
 
-> <i class='material-icons'>calendar_today</i><i class='material-icons'>arrow_right</i><i class='material-icons'>build</i><i class='material-icons'>arrow_right</i><i class='material-icons'>done</i>
+> 🗓 > 🔧 > ✔️ > 🎉
 
 # References
 
