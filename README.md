@@ -15,16 +15,16 @@ Our goal it's make it simple enough to make part of every project you'll develop
 
 # Roadmap
 
-Activity | Status | Dead line
----| --- | ---
-1. Prototyping | ✔️ | Dec-2017
-2. PCB design | 🔧 | Set-2018
-3. Software development | 🗓 | TBD
-4. Manufacturing | 🗓 | TBD
-5. Unit tests (Eletrical and software) | 🗓 | TBD
-6. Performance tests | 🗓 | TBD
-7. Field tests | 🗓 | TBD
-8. Initial release | 🗓 | TBD
+\#  | Activity                            | Status | Dead line
+--- | ---                                 | ---    | ---
+1   | Prototyping                         | ✔️      | Dec-2017
+2   | PCB design                          | 🔧     | Set-2018
+3   | Software development                | 🗓     | TBD
+4   | Manufacturing                       | 🗓     | TBD
+5   | Unit tests (Eletrical and software) | 🗓     | TBD
+6   | Performance tests                   | 🗓     | TBD
+7   | Field tests                         | 🗓     | TBD
+8   | Initial release                     | 🗓     | TBD
 
 > 🗓 > 🔧 > ✔️ > 🎉
 
