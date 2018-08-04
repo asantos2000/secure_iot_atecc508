@@ -11,7 +11,7 @@ The ATECC508A crypto element[3] is the first crypto device to integrate ECDH (El
 
 As we see the application of IoT technologies evolve, it is gratifying to witness the fact that security has become an intrinsic part of the implementation debate. Whilst there are plenty of hacks and vulnerabilities that are still capturing media attention, we have made significant ground in recent times with industry and government fighting back. Across the globe there have been healthy discussions around certification and regulatory controls in cyber security where IoT features prominently.[7]
 
-Our goal it's make it simple enough to make part of every project you'll develop, and we hope, in the near feature, it's embebed with the microprocessor board.
+Our goal it's make it cheap amd simple enough to make part of every project you'll develop, and we hope, in the near future, it's embebed with the microprocessor board.
 
 # Roadmap
 
@@ -37,3 +37,4 @@ Our goal it's make it simple enough to make part of every project you'll develop
 5. [AWS architect features Mongoose OS on ESP8266 and ECC508A at re:Invent 2016](https://www.youtube.com/watch?v=fwr6oSEZpwQ)
 6. [IoT Security Foundation](https://www.iotsecurityfoundation.org/)
 7. [Security By Choice](https://www.iotsecurityfoundation.org/security-by-choice/)
+8. [AWS IoT Authentication Use Case](https://vimeo.com/242995950)
