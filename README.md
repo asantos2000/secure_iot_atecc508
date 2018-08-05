@@ -25,7 +25,9 @@ As we see the application of IoT technologies evolve, it is gratifying to witnes
 ![NodeMCU](images/assembly.png)
 > Figure 3: Assembly
 
-Our goal it's make it cheap amd simple enough to make part of every project you'll develop, and we hope, in the near future, it's embebed with the microprocessor board.
+We understand that IoT is making a huge impact on our lives and give us a remarkable power, but with great power come great responsibilities 🕷.
+
+Our goal makes it cheap and simple enough to make part of every project you'll develop, and we hope, in the near future, it'll embed with the microprocessor board.
 
 ![NodeMCU](images/pcb-front.png) ![NodeMCU](images/pcb-back.png)
 
@@ -54,3 +56,4 @@ Our goal it's make it cheap amd simple enough to make part of every project you'
 6. [IoT Security Foundation](https://www.iotsecurityfoundation.org/)
 7. [Security By Choice](https://www.iotsecurityfoundation.org/security-by-choice/)
 8. [AWS IoT Authentication Use Case](https://vimeo.com/242995950)
+9. [EasyEDA](https://easyeda.com/)
