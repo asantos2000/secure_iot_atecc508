@@ -2,7 +2,7 @@
 
 This is a step-by-step instruction to implement securely store and communication with aws-iot (mqtt) for ESP8266 and Microchip's ATECC508A chip. 
 
-We also develop a shield pcb board to easely connect ATECC508A with ESP8266 / ESP32 NodeMCU form factor and as in the Cesanta post[1], this combo is very inexpensive: the ATECC508A is less than $1, and ESP8266 is less than $2.
+We also develop a shield PCB board to easily connect ATECC508A with ESP8266 / ESP32 NodeMCU form factor and as in the Cesanta post[1], this combo is very inexpensive: the ATECC508A is less than $1, and ESP8266 is less than $2.
 
 ![schematic](images/schematic.png)
 > Figure 1: Circuit Schematic for ATECC508A[1]
