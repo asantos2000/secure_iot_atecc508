@@ -4,7 +4,7 @@ This is a step-by-step instruction to implement securely store and communication
 
 We also develop a shield PCB board to easily connect ATECC508A with ESP8266 / ESP32 NodeMCU form factor and as in the Cesanta post[1], this combo is very inexpensive: the ATECC508A is less than $1, and ESP8266 is less than $2.
 
-![schematic](images/schematic.png)
+![schematic](images/schematic-v2.png)
 > Figure 1: Circuit Schematic for ATECC508A[1]
 
 Function | ATECC508A pin | ESP8266 pin      | NodeMCU pin | ATCRYPTOAUTH pin
@@ -22,16 +22,22 @@ The ATECC508A crypto element[3] is the first crypto device to integrate ECDH (El
 
 As we see the application of IoT technologies evolve, it is gratifying to witness the fact that security has become an intrinsic part of the implementation debate. Whilst there are plenty of hacks and vulnerabilities that are still capturing media attention, we have made significant ground in recent times with industry and government fighting back. Across the globe there have been healthy discussions around certification and regulatory controls in cyber security where IoT features prominently.[7]
 
-![NodeMCU](images/assembly.png)
+![NodeMCU](images/assembly-v2.png)
 > Figure 3: Assembly
 
 We understand that IoT is making a huge impact on our lives and give us a remarkable power, but with great power come great responsibilities 🕷.
 
 Our goal makes it cheap and simple enough to make part of every project you'll develop, and we hope, in the near future, it'll embed with the microprocessor board.
 
-![NodeMCU](images/pcb-front.png) ![NodeMCU](images/pcb-back.png)
+![NodeMCU](images/pcb-front-v2.png) ![NodeMCU](images/pcb-back-v2.png)
 
-# Roadmap
+## Assembly capability
+
+* NODE MCU
+* WeMos
+* Any [D6, D5, GND, VCC] pins
+
+## Roadmap
 
 \#  | Activity                            | Status | Dead line
 --- | ---                                 | ---    | ---
@@ -46,14 +52,15 @@ Our goal makes it cheap and simple enough to make part of every project you'll d
 
 > 🗓 > 🔧 > ✔️ > 🎉
 
-# References
+## References
 
-1. [The two-dollar secure IoT solution: Mongoose OS + ESP8266 + ATECC508 + AWS IoT](https://mongoose-os.com/blog/mongoose-esp8266-atecc508-aws/)
-2. [Simple device control using MQTT](https://github.com/cesanta/mongoose-os/tree/master/fw/examples/c_mqtt)
-3. [Mongoose OS - IoT Firmware Development Framework](https://mongoose-os.com/)
-4. [ATECC508A](https://www.microchip.com/wwwproducts/en/ATECC508A)
-5. [AWS architect features Mongoose OS on ESP8266 and ECC508A at re:Invent 2016](https://www.youtube.com/watch?v=fwr6oSEZpwQ)
-6. [IoT Security Foundation](https://www.iotsecurityfoundation.org/)
-7. [Security By Choice](https://www.iotsecurityfoundation.org/security-by-choice/)
-8. [AWS IoT Authentication Use Case](https://vimeo.com/242995950)
-9. [EasyEDA](https://easyeda.com/)
+1. Source: <https://easyeda.com/adsantos/iot_sec>
+2. [The two-dollar secure IoT solution: Mongoose OS + ESP8266 + ATECC508 + AWS IoT](https://mongoose-os.com/blog/mongoose-esp8266-atecc508-aws/)
+3. [Simple device control using MQTT](https://github.com/cesanta/mongoose-os/tree/master/fw/examples/c_mqtt)
+4. [Mongoose OS - IoT Firmware Development Framework](https://mongoose-os.com/)
+5. [ATECC508A](https://www.microchip.com/wwwproducts/en/ATECC508A)
+6. [AWS architect features Mongoose OS on ESP8266 and ECC508A at re:Invent 2016](https://www.youtube.com/watch?v=fwr6oSEZpwQ)
+7. [IoT Security Foundation](https://www.iotsecurityfoundation.org/)
+8. [Security By Choice](https://www.iotsecurityfoundation.org/security-by-choice/)
+9. [AWS IoT Authentication Use Case](https://vimeo.com/242995950)
+10. [EasyEDA](https://easyeda.com/)
